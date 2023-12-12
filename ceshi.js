@@ -1,0 +1,3 @@
+const myself = {
+    name: 'liu'
+}
